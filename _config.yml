@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "代码生活 - Code Lives"
+title                    : "小苏个人博客 - SGDesign"
 title_separator          : "-"
-name                     : "Code Lives"
+name                     : "SGDesign"
 description              : "技术经验分享"
-url                      : "http://blog.codelives.com"
+url                      : "http://blog.sgdesigns.cn"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benny"
-  avatar           : "/assets/images/bennygx.png"
-  bio              : "在代码世界不停地学习, 踩坑, 进步的程序猿。"
-  location         : "代码世界的黑洞"
+  name             : "小苏 (Sue)"
+  avatar           : "/assets/images/sueyan.png"
+  bio              : "妹纸是前端开发攻城狮哦! \(^0^) "
+  location         : "广州"
   email            : 
   uri              :
   bitbucket        :
