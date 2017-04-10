@@ -12,7 +12,7 @@ tags:
   - Hybird App
 ---
 
-1.首先更新==package.json==, 按照以下的代码相应替换你package.json里面的代码, 并且把你项目根目录下的==node_modules==文件夹删除掉, 然后运行npm install (如果你是用淘宝镜像可以运行 cnpm install)
+1.首先更新```package.json```, 按照以下的代码相应替换你package.json里面的代码, 并且把你项目根目录下的```node_modules```文件夹删除掉, 然后运行npm install (如果你是用淘宝镜像可以运行 cnpm install)
 
 ```json
 "dependencies": {
@@ -40,7 +40,7 @@ tags:
 }
 ```
 
-2.第二步你需要在==app/app.module.ts==文件里面引入BrowserModule和HttpModule
+2.第二步你需要在```app/app.module.ts```文件里面引入```BrowserModule```和```HttpModule```
 首先需要在头部引入这两个module (如果你的APP不使用HTTP可以不引入HttpModule)
 
 ```typescript
@@ -56,7 +56,7 @@ imports: [
   IonicModule.forRoot(MyApp)
 ],
 ```
-3.在==app.component.ts==文件夹里面修改以及添加以下代码:
+3.在```app.component.ts```文件夹里面修改以及添加以下代码:
 
 ```typescript
 import { StatusBar } from '@ionic-native/status-bar';
