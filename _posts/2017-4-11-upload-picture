@@ -19,6 +19,7 @@ tags:
 ```
 npm install ng2-imageupload --save
 ```
+
 2.在==app.module.ts==文件夹头部输入:
 
 
