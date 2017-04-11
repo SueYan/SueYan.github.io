@@ -1,5 +1,5 @@
 ---
-title: "Ionic2 升级 Ionic3"
+title: "Ionic2 图片上传"
 header:
   image: /assets/images/ionic-header.jpg
   caption: "Photo credit: [**Ionic**](https://ionic.io)"
